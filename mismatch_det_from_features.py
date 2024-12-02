@@ -181,7 +181,11 @@ if __name__ == "__main__":
         # Save the model if validation accuracy improves
         if val_accuracy > best_val_accuracy:
             best_val_accuracy = val_accuracy
-            best_model_path = os.path.join(checkpoint_dir, f"best_model_epoch_{epoch+1}.pth")
+
+            # best_model_path = os.path.join(checkpoint_dir, f"best_model_epoch_{epoch+1}.pth")
+            # use this to save the storage instead of saving all the models at different epochs 
+            best_model_path = os.path.join(checkpoint_dir, f"best_model.pth")
+
             torch.save(classification_head.state_dict(), best_model_path)
             print(f"Best model saved at: {best_model_path} with validation accuracy {val_accuracy:.2f}%")
 
