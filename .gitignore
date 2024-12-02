@@ -8,3 +8,7 @@ __pycache__/
 thumbs.db
 .DS_Store
 .idea
+.neptune
+data_labels
+checkpoints
+images
