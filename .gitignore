@@ -12,3 +12,5 @@ thumbs.db
 data_labels
 checkpoints
 images
+data
+environment.yml

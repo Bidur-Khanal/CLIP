@@ -8,17 +8,18 @@ from PIL import Image
 from finematch_dataset import FineMatchDataset 
 from utils import FastDataLoader 
 import neptune
+import argparse
 
 class ClassificationHead(nn.Module):
-    def __init__(self, clipmodel):
+    def __init__(self, clipmodel, num_layers=3, hidden_size=128):
         super(ClassificationHead, self).__init__()
         self.clipmodel = clipmodel
         self.projection_size = self.clipmodel.text_projection.shape[1]
        
         # Define a simple MLP
         self.layers = []
-        self.num_layers = 3
-        self.hidden_size = 128
+        self.num_layers = num_layers
+        self.hidden_size = hidden_size
        
         input_size = self.projection_size
         for _ in range(self.num_layers - 1):
@@ -36,46 +37,113 @@ class ClassificationHead(nn.Module):
         return self.mlp(similarity)
     
 
+def parse_arguments():
+    parser = argparse.ArgumentParser(description="Training script with configurable parameters.")
+    
+    # General training parameters
+    parser.add_argument("--num_epochs", type=int, default=100, help="Number of epochs for training")
+    parser.add_argument("--lr", type=float, default=1e-2, help="Learning rate for the optimizer")
+    parser.add_argument("--batch_size", type=int, default=128, help="Batch size for training")
+    parser.add_argument("--optimizer", type=str, default="Adam", help="Optimizer to use (e.g., Adam, SGD)")
+    parser.add_argument("--loss", type=str, default="BCELoss", help="Loss function to use")
+    parser.add_argument("--classification_type", type=str, default="zero-shot",choices= ["zero-shot", "mlp"]
+                         ,help="Type of classification (e.g., zero-shot, mlp)")
+
+
+    # Model parameters
+    parser.add_argument("--num_layers", type=int, default=3, help="Number of layers in the model")
+    parser.add_argument("--hidden_size", type=int, default=128, help="Hidden size for the model")
+    parser.add_argument("--pretrained_model", type=str, default="ViT-L/14", help="Pretrained model to use")
+    
+    
+
+    # File paths
+    parser.add_argument("--train_jsonl", type=str, default="data_labels/FineMatch_train.jsonl",
+                        help="Path to the training dataset JSONL file")
+    parser.add_argument("--val_jsonl", type=str, default="data_labels/FineMatch_val.jsonl",
+                        help="Path to the validation dataset JSONL file")
+    parser.add_argument("--test_jsonl", type=str, default="data_labels/FineMatch_test.jsonl",
+                        help="Path to the test dataset JSONL file")
+    parser.add_argument("--image_folder", type=str, default="D:/finematch/images/FineMatch",
+                        help="Path to the folder containing images")
+    
+    # Additional parameters
+    parser.add_argument("--include_list", nargs="+", default=["Attributes", "Numbers", "Entities", "Relations"],
+                        help="List of attributes to include in training")
+    parser.add_argument("--dataset", type=str, default="FineMatch", help="Dataset name")
+
+    return parser.parse_args()
+
+    
+
 if __name__ == "__main__":
 
+    # Fetch the API token from the environment variable
+    api_token = os.environ.get("NEPTUNE_API_TOKEN")
+    
+    if not api_token:
+        raise ValueError("Neptune API token is not set. Please set the NEPTUNE_API_TOKEN environment variable.")
+    
+    # Initialize the Neptune run
     run = neptune.init_run(
-    project="bidur/noisy-correspondence",
-    api_token="eyJhcGlfYWRkcmVzcyI6Imh0dHBzOi8vYXBwLm5lcHR1bmUuYWkiLCJhcGlfdXJsIjoiaHR0cHM6Ly9hcHAubmVwdHVuZS5haSIsImFwaV9rZXkiOiI5YTdmODdjMy1iNzZlLTRhMjMtYTU2ZS1mYmQyNDU0YmJmNDIifQ==",
-)  # your credentials   
-
-
-
-    # Dataset name (e.g., for dynamic path creation)
-    dataset_name = "FineMatch"
+    project="bidur/noisy-correspondence", api_token = api_token)
+    
+    # Parse command-line arguments
+    args = parse_arguments()
+    
+    # Extract variables from arguments
+    num_epochs = args.num_epochs
+    include_list = args.include_list
+    dataset_name = args.dataset
+    batch_size = args.batch_size
+    hiden_size = args.hidden_size
+    num_layers = args.num_layers
+    lr = args.lr
+    pretrained_model = args.pretrained_model
+    train_jsonl = args.train_jsonl
+    val_jsonl = args.val_jsonl
+    test_jsonl = args.test_jsonl
+    image_folder = args.image_folder
 
     # Create directory for saving checkpoints
     checkpoint_dir = f"checkpoints/{dataset_name}"
     os.makedirs(checkpoint_dir, exist_ok=True) 
 
 
+    # Create params dictionary
+    params = {
+        "num_epochs": num_epochs,
+        "lr": args.lr,
+        "batch_size": args.batch_size,
+        "num_layers": args.num_layers,
+        "hidden_size": args.hidden_size,
+        "pretrained_model": args.pretrained_model,
+        "dataset": args.dataset,
+        "optimizer": args.optimizer,
+        "loss": args.loss,
+        "include_list": str(args.include_list),
+    }
+
+    # Example: Assign params to your tracking tool
+    run["parameters"] = params
+    print(f"Parameters: {params}")
+
+
     # Load the CLIP model
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    # print (device)
-    model, preprocess = clip.load('ViT-L/14', device)
-
-
-    # File paths
-    train_jsonl = "data_labels/FineMatch_train.jsonl"
-    val_jsonl = "data_labels/FineMatch_val.jsonl"
-    test_jsonl = "data_labels/FineMatch_test.jsonl"
-    image_folder = "D:/finematch/images/FineMatch"  # Replace with the path to your image folder
+    model, preprocess = clip.load(pretrained_model, device)
 
 
     # Datasets
-    train_dataset = FineMatchDataset(train_jsonl, image_folder, transform=preprocess)
-    val_dataset = FineMatchDataset(val_jsonl, image_folder, transform=preprocess)
-    test_dataset = FineMatchDataset(test_jsonl, image_folder, transform=preprocess)
+    train_dataset = FineMatchDataset(train_jsonl, image_folder, transform=preprocess, include_list=include_list)
+    val_dataset = FineMatchDataset(val_jsonl, image_folder, transform=preprocess, include_list=include_list)
+    test_dataset = FineMatchDataset(test_jsonl, image_folder, transform=preprocess, include_list=include_list)
 
 
     # Function to precompute embeddings
     def precompute_embeddings(dataset):
         image_embeddings, text_embeddings, targets_list = [], [], []
-        dataloader = FastDataLoader(dataset, batch_size=128, shuffle=False, num_workers=4, pin_memory=True)
+        dataloader = FastDataLoader(dataset, batch_size=batch_size, shuffle=False, num_workers=4, pin_memory=True)
 
         with torch.no_grad():
             for images, queries, labels, labels_type, targets in dataloader:
@@ -101,30 +169,22 @@ if __name__ == "__main__":
         return torch.utils.data.TensorDataset(image_embeddings, text_embeddings, targets_list)
 
     print("Precomputing embeddings for train, val, and test datasets...")
-    train_loader = DataLoader(precompute_embeddings(train_dataset), batch_size=128, shuffle=True, num_workers=4, pin_memory=True)
-    val_loader = DataLoader(precompute_embeddings(val_dataset), batch_size=128, shuffle=False, num_workers=4, pin_memory=True)
-    test_loader = DataLoader(precompute_embeddings(test_dataset), batch_size=128, shuffle=False, num_workers=4, pin_memory=True)
+    train_loader = DataLoader(precompute_embeddings(train_dataset), batch_size=batch_size, shuffle=True, num_workers=4, pin_memory=True)
+    val_loader = DataLoader(precompute_embeddings(val_dataset), batch_size=batch_size, shuffle=False, num_workers=4, pin_memory=True)
+    test_loader = DataLoader(precompute_embeddings(test_dataset), batch_size=batch_size, shuffle=False, num_workers=4, pin_memory=True)
     print("Precomputed embeddings for all datasets.")
 
 
     # Instantiate the full model
-    classification_head = ClassificationHead(model).to(device)
+    classification_head = ClassificationHead(model,num_layers,hiden_size).to(device)
 
     # Loss function and optimizer
     criterion = nn.BCELoss()  # Binary cross-entropy loss
-    optimizer = torch.optim.Adam(classification_head.parameters(), lr=1e-2) # Optimizer
+    optimizer = torch.optim.Adam(classification_head.parameters(), lr=lr) # Optimizer
 
-  
-    num_epochs = 100
+    # set some variables
     best_val_accuracy = 0.0
-    best_model_path = "checkpoints/best_model.pth"
-
-    params = {"num_epochs": num_epochs, "lr": 1e-2, "batch_size": 128,
-            "num_layers": 3, "hidden_size": 128, "pretrained_model": "ViT-L/14", 
-            "dataset": "FineMatch", "optimizer": "Adam", "loss": "BCELoss"}
-    run["parameters"] = params
-
-
+    
     for epoch in range(num_epochs):
 
         ################### Training ###################
@@ -182,9 +242,22 @@ if __name__ == "__main__":
         if val_accuracy > best_val_accuracy:
             best_val_accuracy = val_accuracy
 
-            # best_model_path = os.path.join(checkpoint_dir, f"best_model_epoch_{epoch+1}.pth")
-            # use this to save the storage instead of saving all the models at different epochs 
-            best_model_path = os.path.join(checkpoint_dir, f"best_model.pth")
+            # Determine best_model_path based on include_list
+            if include_list == ["Attributes"]:
+                best_model_path = os.path.join(checkpoint_dir, "Attributes/best_model.pth")
+            elif include_list == ["Numbers"]:
+                best_model_path = os.path.join(checkpoint_dir, "Numbers/best_model.pth")
+            elif include_list == ["Relations"]:
+                best_model_path = os.path.join(checkpoint_dir, "Relations/best_model.pth")
+            elif include_list == ["Entities"]:
+                best_model_path = os.path.join(checkpoint_dir, "Entities/best_model.pth")
+            elif set(include_list) == {"Attributes", "Numbers", "Entities", "Relations"}:
+                best_model_path = os.path.join(checkpoint_dir, "All/best_model.pth")
+            else:
+                best_model_path = os.path.join(checkpoint_dir, "best_model.pth")
+
+            # Ensure the directory for best_model_path exists
+            os.makedirs(os.path.dirname(best_model_path), exist_ok=True)
 
             torch.save(classification_head.state_dict(), best_model_path)
             print(f"Best model saved at: {best_model_path} with validation accuracy {val_accuracy:.2f}%")
@@ -224,7 +297,7 @@ if __name__ == "__main__":
 
         # Log test metrics
         print(f"Test Loss: {avg_test_loss:.4f}, Test Accuracy: {test_accuracy:.2f}%")
-        run["test/loss"] = avg_test_loss
-        run["test/accuracy"] = test_accuracy
+        run["test/loss"].append(avg_test_loss)
+        run["test/accuracy"].append(test_accuracy)
 
     run.stop()

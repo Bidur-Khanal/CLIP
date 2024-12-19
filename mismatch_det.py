@@ -38,10 +38,15 @@ class ClassificationHead(nn.Module):
 
 if __name__ == "__main__":
 
+    # Fetch the API token from the environment variable
+    api_token = os.environ.get("NEPTUNE_API_TOKEN")
+    
+    if not api_token:
+        raise ValueError("Neptune API token is not set. Please set the NEPTUNE_API_TOKEN environment variable.")
+    
+    # Initialize the Neptune run
     run = neptune.init_run(
-    project="bidur/noisy-correspondence",
-    api_token="eyJhcGlfYWRkcmVzcyI6Imh0dHBzOi8vYXBwLm5lcHR1bmUuYWkiLCJhcGlfdXJsIjoiaHR0cHM6Ly9hcHAubmVwdHVuZS5haSIsImFwaV9rZXkiOiI5YTdmODdjMy1iNzZlLTRhMjMtYTU2ZS1mYmQyNDU0YmJmNDIifQ==",
-)  # your credentials    
+    project="bidur/noisy-correspondence", api_token = api_token)
 
 
     # Load the CLIP model

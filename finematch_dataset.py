@@ -7,7 +7,7 @@ import torchvision.transforms as transforms
 import clip
 
 class FineMatchDataset(Dataset):
-    def __init__(self, jsonl_file, image_folder, transform=None, tokenizer=None):
+    def __init__(self, jsonl_file, image_folder, transform=None, tokenizer=None, include_list = ["Attributes","Numbers","Entities","Relations"]):
         """
         Custom Dataset for loading images, queries, labels, and targets.
 
@@ -22,7 +22,9 @@ class FineMatchDataset(Dataset):
         self.tokenizer = tokenizer
         # self.exclude_list = ["Numbers", "Attributes"]  # Default to an empty list if none provided
         # self.include_list = ["Attributes","Numbers","Entities","Relations"]  # Default to an empty list if none provided
-        self.include_list = ["Entities"]  # Default to an empty list if none provided
+        # self.include_list = ["Attributes"]  # Default to an empty list if none provided
+        self.include_list = include_list 
+        print (self.include_list)
         
         # Load data from the JSONL file
         with open(jsonl_file, "r") as f:
