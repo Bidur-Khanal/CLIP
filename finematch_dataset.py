@@ -4,6 +4,8 @@ from PIL import Image
 import torch
 from torch.utils.data import Dataset, DataLoader
 import torchvision.transforms as transforms
+from collections import defaultdict
+from utils import FastDataLoader
 import clip
 
 class FineMatchDataset(Dataset):
@@ -20,18 +22,12 @@ class FineMatchDataset(Dataset):
         self.image_folder = image_folder
         self.transform = transform
         self.tokenizer = tokenizer
-        # self.exclude_list = ["Numbers", "Attributes"]  # Default to an empty list if none provided
-        # self.include_list = ["Attributes","Numbers","Entities","Relations"]  # Default to an empty list if none provided
-        # self.include_list = ["Attributes"]  # Default to an empty list if none provided
         self.include_list = include_list 
         print (self.include_list)
         
         # Load data from the JSONL file
         with open(jsonl_file, "r") as f:
             self.data = [json.loads(line) for line in f]
-
-        # Filter out entries with label types in exclude_list
-        #self.data = [entry for entry in self.data if entry["label_type"] not in self.exclude_list ]
 
         # Filter out entries with label types not in include_list
         self.data = [entry for entry in self.data if entry["label_type"] in self.include_list]
@@ -73,35 +69,84 @@ class FineMatchDataset(Dataset):
         # Return the image, query, label, and target
         return image, query, label, label_type, target
     
+class FineMatchZeroShotDataset(Dataset):
+    def __init__(self, jsonl_file, image_folder, transform=None, tokenizer=None, include_list=["Attributes", "Numbers", "Entities", "Relations"]):
+        """
+        Custom Dataset for loading images, queries, labels, and targets.
 
+        Parameters:
+        - jsonl_file (str): Path to the processed JSONL file.
+        - image_folder (str): Path to the folder containing images.
+        - transform (callable, optional): Transformation to apply to the images.
+        - tokenizer (callable, optional): Tokenizer for processing the queries.
+        """
+        self.image_folder = image_folder
+        self.transform = transform
+        self.tokenizer = tokenizer
+        self.include_list = include_list
+        print (self.include_list)
 
-class _RepeatSampler(object):
-    """ Sampler that repeats forever.
+        # Load data from the JSONL file
+        with open(jsonl_file, "r") as f:
+            data = [json.loads(line) for line in f]
 
-    Args:
-        sampler (Sampler)
-    """
+        # Filter out entries with label types not in include_list
+        data = [entry for entry in data if entry["label_type"] in self.include_list]
 
-    def __init__(self, sampler):
-        self.sampler = sampler
+        # Group every two consecutive lines
+        self.data = []
 
-    def __iter__(self):
-        while True:
-            yield from iter(self.sampler)
+        for i in range(0, len(data), 2):
+            entry1 = data[i]
+            entry2 = data[i + 1]
+            
+            # Create a new grouped entry
+            grouped_entry = {
+                "id": entry1["id"],
+                "image_id": entry1["image_id"],
+                "query": entry1["query"],
+                "labels": [entry1["labels"], entry2["labels"]],
+                "targets": [entry1["target"], entry2["target"]],
+                "label_type": entry1["label_type"]
+            }
     
-class FastDataLoader(torch.utils.data.dataloader.DataLoader):
-
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-        object.__setattr__(self, 'batch_sampler', _RepeatSampler(self.batch_sampler))
-        self.iterator = super().__iter__()
+            self.data.append(grouped_entry)
 
     def __len__(self):
-        return len(self.batch_sampler.sampler)
+        return len(self.data)
 
-    def __iter__(self):
-        for i in range(len(self)):
-            yield next(self.iterator)
+    def __getitem__(self, idx):
+        # Get the data for the given index
+        entry = self.data[idx]
+        image_id = entry["image_id"]
+        query = entry["query"]
+        label_type = entry["label_type"]
+        labels = entry["labels"]
+        targets = entry["targets"]
+
+        # Check if the image exists in the folder
+        image_path = os.path.join(self.image_folder, image_id)
+        if not os.path.exists(image_path):
+            # Modify the image_id by prepending "VizWiz_train_"
+            image_id = f"VizWiz_train_{image_id}"
+            image_path = os.path.join(self.image_folder, image_id)
+            if not os.path.exists(image_path):
+                raise FileNotFoundError(f"Image not found: {image_id}")
+
+        # Load the image
+        image = Image.open(image_path).convert("RGB")
+
+        # Apply transformations to the image
+        if self.transform:
+            image = self.transform(image)
+
+        # Tokenize the query if a tokenizer is provided
+        if self.tokenizer:
+            query = self.tokenizer(query)
+
+        # Return the image, query, combined labels, label type, and targets
+        return image, query, labels, label_type, targets
+    
 
 # Example usage
 if __name__ == "__main__":

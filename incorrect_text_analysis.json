@@ -1,0 +1,6073 @@
+{
+    "53e22e19-e76c-465b-bb9e-06d6d57c59ba.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmarks are brown."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "927bb7b7-7d03-475e-abde-3d1f4b691f7e.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3d6522a9-2ad7-41cb-91e6-cc4fe56189f5.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                " The abnormality, a small dark spot, is located towards the center."
+            ],
+            "medical_findings": [
+                " No polyps or"
+            ]
+        },
+        "frequency_count": {
+            "locations": 1,
+            "medical_findings": 1
+        }
+    },
+    "5d3b3883-9659-4db3-aa22-5fd3be22f930.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "colors": [
+                "A polyp, which is white in color, is present."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "194b7e19-a8ba-43ca-ac0a-1f48e8ad9a97.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                " There are no abnormalities, polyps,"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1
+        }
+    },
+    "7d743ce9-2624-4c82-8f03-f4c0851683d3.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "0da9c916-f978-4cc6-b1a2-e424c980bf17.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "5500c70e-987d-44b3-808a-99c891d01fd6.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "05cec76d-281a-4901-b2e7-de98c0207088.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5ffe22ef-457e-45e3-88a7-9e395ae9ecc3.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ],
+            "medical_findings": [
+                " There are no polyps and no anatomical landmarks"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "51cacc12-b4f0-4f29-b7f5-20706932a617.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "484a844a-d53b-469d-994f-707a617b29d3.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "995bc0cf-8158-46a2-9bcd-0d46a7aa8ef9.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "2d7d57c7-bb97-4bb4-b7fe-fdf055857782.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fabe6262-ce05-48a5-b0fd-170af0d90d1a.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                " No polyps or anatomical landmarks are visible."
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1
+        }
+    },
+    "0fd098ab-68e7-4148-88f6-3eea124d133f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "a2d26215-1dbb-4841-a16b-efe500629471.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                "An image of normal cecum. There are several yellow abnormalities, such as polyps, located centrally in the image. "
+            ],
+            "colors": [
+                "An image of normal cecum. There are several yellow abnormalities, such as polyps, located centrally in the image. "
+            ],
+            "anatomical_class": [
+                "An image of normal cecum. There are several yellow abnormalities, such as polyps, located centrally in the image. "
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1,
+            "colors": 1,
+            "anatomical_class": 1
+        }
+    },
+    "a4391f84-6aa1-4963-b0ad-b60b23f805e6.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "85ef9795-f799-4397-b6d0-63db1db8196b.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ],
+            "numbers": [
+                " two",
+                " two polyps"
+            ],
+            "medical_findings": [
+                " two polyps"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "numbers": 2,
+            "medical_findings": 1
+        }
+    },
+    "f94f3e7f-dc29-422e-add6-cfdb36aa7f19.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "7e0acba5-5f74-444d-8edb-4c84ef7464e2.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "d19d336e-2b12-4692-a2d9-e429882b91b8.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "37e21c86-d49e-45ff-82d6-b9ba47709738.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "4128a5ff-df5d-4b3a-9560-bd131a13526a.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "50210199-bd31-4b70-ab68-cbf64a47c871.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "medical_findings": [
+                ", signs of inflammation,",
+                "infection"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 2
+        }
+    },
+    "5f3d6ed3-dca1-4fb0-a0e3-fd53fffa4cff.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ],
+            "medical_findings": [
+                " There is no sign of polyps,",
+                " bleeding,"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 2
+        }
+    },
+    "73932b1b-fd8d-48bd-a788-efd3b7f7409b.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The anatomical landmark in brown is visible in the background."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "824d23e3-d425-4b3f-b6f8-3fb9a95bb412.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3046f53d-c699-4bac-92f6-303b4c0478a2.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "792bb897-cd6e-45d7-af8f-b9d5a92b1039.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "a9f9b095-296d-46a4-90d9-266e8759ccd6.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "07270b1b-84de-40d2-bbff-698bf3b91512.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d67308a1-14b7-47be-a070-359caaffe0ce.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line",
+                "The anatomical landmark seems to be reddish-brown mucosa."
+            ],
+            "colors": [
+                "The anatomical landmark seems to be reddish-brown mucosa."
+            ],
+            "medical_findings": [
+                "There are no visible polyps"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 2,
+            "colors": 1,
+            "medical_findings": 1
+        }
+    },
+    "f004b232-558b-4da2-ac05-e680eb583913.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ],
+            "colors": [
+                "The anatomical landmark appears brown."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "74c481e5-71d5-49cb-852e-09791bbc99bd.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum. "
+            ],
+            "numbers": [
+                "One instrument is present, likely for polyp removal."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "numbers": 1
+        }
+    },
+    "f0319ddc-2e5b-4ce6-90bb-263b9a3a605a.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "1df3cbb0-782d-47fd-acf7-877feea2fb36.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "131bed9f-da09-4ffb-b7c5-e3a59d59e33d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "a0685864-7196-4ce9-9c35-2ee706ab181e.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "c5949f94-fee7-47c0-85f0-64cd1e0559a0.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "93bfd318-0523-4ff8-ad19-93b4eb329ed5.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The abnormality is greenish-white and located centrally."
+            ],
+            "medical_findings": [
+                " There are no visible polyps,",
+                " signs of inflammation, bleeding, foreign bodies, or infection."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "medical_findings": 2
+        }
+    },
+    "98ecb81e-5a43-4a3b-96fd-03a02b715764.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "6108778c-c5c0-43c6-82b2-8855532c0127.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                " polyps"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1
+        }
+    },
+    "287efd49-5177-448a-99a4-6ee0d383f002.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "1a0e5a49-c3d9-47be-bc09-25bbe93cfa57.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "389c76a0-5206-4a9e-8904-754938f84146.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "82cfd1de-8693-46aa-b3cf-a686e01be4f1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ],
+            "colors": [
+                "brown"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "80feedb5-ecca-4572-85f6-977563b5d73e.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5915160a-17e8-4fe9-af28-d53de0ef94fc.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "bec068b9-4ac2-4dd6-85f2-171e4b168c3a.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ],
+            "medical_findings": [
+                " No polyps"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "88d77dd6-c870-497c-b156-96417620efe1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "medical_findings": [
+                " No polyps are observed",
+                " No polyps,"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 2
+        }
+    },
+    "201df7f0-cd85-4af9-9012-bf4f70792444.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "medical_findings": [
+                " There are no polyps,"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "d4f8168c-5425-4960-bf5f-0db6c4d7b4da.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "6b7e51ec-5139-49f8-9211-916c7dadbc7f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "e700910a-7e00-44bc-8453-0d09372ad5c9.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line"
+            ],
+            "medical_findings": [
+                " polyps,"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "ff8302f7-1d50-4c7b-899b-2cd40f4f498b.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ],
+            "medical_findings": [
+                "inflammation, bleeding,",
+                " or signs of infection"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 2
+        }
+    },
+    "7ab645f7-5744-4e4c-949b-24afd81b1431.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                " There are no visible polyps"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1
+        }
+    },
+    "0de004f5-2c4e-4f45-9439-a0f7fd5fb3a0.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                "inflammation"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1
+        }
+    },
+    "0053d7cd-549c-48cd-b370-b4ad64a8098a.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The anatomical landmarks are not distinctly colored."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "36e0b7ad-fd56-4918-b8ef-758f3999fcc1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                " No polyps,"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "7e34c502-1fd0-4e08-96a7-3308a586ecd4.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ],
+            "medical_findings": [
+                " No visible polyps "
+            ],
+            "colors": [
+                "and one white foreign body is visible, positioned centrally,"
+            ],
+            "numbers": [
+                "and one white foreign body is visible, positioned centrally,",
+                "One instrument is present, positioned centrally."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1,
+            "colors": 1,
+            "numbers": 2
+        }
+    },
+    "538d0f31-be4d-431d-b432-79148471d8b2.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "afd602bf-f27d-42bc-9e25-31004b3ba1f7.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "4d80eeda-2481-4cc8-84cb-e80d119ce4c5.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "364c7d9c-f5f2-4af4-9a7e-62f8381d61fa.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The anatomical landmark is not distinctly colored."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "b4e37f56-ac82-438d-ac9c-7d8c7ad6929d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "4b5b559b-2603-4181-b0e6-433b9365f68e.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                " but no polyps"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "68dbc850-b222-49aa-b634-4f7859b24722.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "medical_findings": [
+                "There are no polyps visible"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "585447d7-8210-4ce1-ab85-d62998061a95.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "locations": [
+                " The anatomical landmark is seen in the left side"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "locations": 1
+        }
+    },
+    "88fbc529-9a99-41ba-9b1c-0252a278eafa.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "medical_findings": [
+                " polyps"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "e2d6d783-6b64-43e6-bb0f-b3808239050d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "9d1ee8df-ec23-4d62-8fca-134cdf63c7c5.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "aa195a2e-ea00-4c36-8773-254f86645b9a.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "e05779e5-50c8-4340-886c-72e46782ce79.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "Beige-pink colored mucosal surfaces serve as anatomical landmarks."
+            ],
+            "anatomical_class": [
+                "Beige-pink colored mucosal surfaces serve as anatomical landmarks."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "anatomical_class": 1
+        }
+    },
+    "555ed1c9-b57e-4110-a14c-c5f17c344bfe.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "7520a024-091f-4e2e-9bdf-4620081819b5.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "d4995578-1e11-4f0c-892e-32da8b2c62bd.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                "polyps"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1
+        }
+    },
+    "a5cf92b3-ddaf-411b-ac9e-391a12469325.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "97695637-4d47-4c22-a460-ac49e0e2ce0e.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8b178efc-08c2-43fd-bd77-e4c40f1786ca.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "3fff713a-a007-4ac9-a67d-e646098c5231.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "50e85dfb-7d6c-4158-bf44-c17d4ed54ab3.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "5ee4d0af-22d1-42cf-a599-6d5a64606e0d.jpg": {
+        "incorrect_texts": {
+            "numbers": [
+                "There is one polyp"
+            ]
+        },
+        "frequency_count": {
+            "numbers": 1
+        }
+    },
+    "40f95978-f726-42df-97cd-a9f1f3c0fa53.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "32425083-f790-4977-b2b5-b8f801e099c6.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "characterized by a white color."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "ca487eb4-263a-4c7d-9749-36c8b04eb7f1.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                "One instrument is visible near the lower center."
+            ],
+            "numbers": [
+                "One instrument is visible near the lower center."
+            ]
+        },
+        "frequency_count": {
+            "locations": 1,
+            "numbers": 1
+        }
+    },
+    "8b9f9a57-6b40-4c04-9a99-0c4668426df9.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "7e486c2a-1820-4321-bf84-f7b2c3a2183b.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "76594c04-8899-4982-b973-5e484a98789c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "894bded3-493a-482f-b8b0-737d9c23f48d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "8a69020d-a527-4cf7-90ef-ff00dedd5ac1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "ac48aa4f-c157-4133-8052-91a498abb8a5.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "colors": [
+                " brown-red in color"
+            ],
+            "medical_findings": [
+                "There are no polyps or a"
+            ],
+            "numbers": [
+                " One instrument is present centrally."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1,
+            "medical_findings": 1,
+            "numbers": 1
+        }
+    },
+    "ac6ec267-f5a2-406f-8084-fe7a0d3d4624.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "ac578e96-77a2-446a-8a87-021613273dc3.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "93a04913-7d41-4f37-a448-18ba9509da01.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The anatomical landmark is not distinctly colored"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "04ebaa14-43dc-411a-951f-1d22559f25c3.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "f91bcfe4-d6ff-4d60-86db-baf521314182.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e03f1c0e-86ce-4e6c-a912-22f9feee32c1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "7ad847a5-c570-4225-88cd-a74196096339.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "4daef72c-e4c4-42b6-aacf-46aba9e43910.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "colors": [
+                " brownish"
+            ],
+            "locations": [
+                "There is one instrument visible in the upper left part of the image,"
+            ],
+            "numbers": [
+                "There is one instrument visible in the upper left part of the image,"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1,
+            "locations": 1,
+            "numbers": 1
+        }
+    },
+    "decfde72-063d-48c4-b9b8-e7431b5f3bb1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "73f2e0e9-9a0c-495d-b201-f6a0dbd05957.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "brown"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "2ee00dbb-1c4a-46dc-92f8-6bfe66cb1a3b.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3f2fddf9-c696-4423-871f-b473daa00cf3.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "5ff7b743-4aca-4510-9c84-baccc1e5f5d7.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "colors": [
+                "The abnormality, if present, appears reddish. The anatomical landmark is a circular, blue-hued structure."
+            ],
+            "medical_findings": [
+                "possible bleeding"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1,
+            "medical_findings": 1
+        }
+    },
+    "15cfd43f-7118-4169-9725-e7badac83d05.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "ee18d5bb-a6c7-4aca-ac11-625994099502.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "a20202b9-dc62-4bde-89f1-2a5177e2dacc.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                "but one instrument is present near the center."
+            ],
+            "numbers": [
+                "but one instrument is present near the center."
+            ]
+        },
+        "frequency_count": {
+            "locations": 1,
+            "numbers": 1
+        }
+    },
+    "789f32f2-8574-4f0f-978b-a4e6b11a7615.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d65fbee9-7e8c-4345-8c80-754725dd9e2d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "a0ea2ca3-cc27-4933-b19a-24a47aa47954.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "7c7cae2f-027d-427e-8240-272bc58a8679.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "c837c12d-ac15-45b0-b8b7-a85fbd68ef59.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "0ffa29d8-0d83-4c57-8b9d-1afcb84d6fe1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "4c698444-ba84-411b-b7f5-031692a275ba.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "brown in color"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "814929ff-5151-40fd-a226-b51e636f688c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "f96b3535-d87c-4061-aabc-9acfffed03db.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "8b7578bd-5e69-4b88-ab32-32d6a5879ff3.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "b0831ef5-3a80-4f36-815e-121bda5f7137.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "a19ca4be-1887-4c78-b8e2-28c115fb1543.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "colors": [
+                "reddish"
+            ],
+            "numbers": [
+                " One instrument is visible in the top-middle section."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1,
+            "numbers": 1
+        }
+    },
+    "18c6ae85-f3f9-4c5f-a318-51f67f5eb009.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "colors": [
+                "The anatomical landmark is light blue.",
+                "There are signs of inflammation in the brown areas"
+            ],
+            "medical_findings": [
+                "There are signs of inflammation in the brown areas"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 2,
+            "medical_findings": 1
+        }
+    },
+    "6c1f1b20-6f67-4491-b153-adc8e3936bce.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "56629c91-4ece-4637-9331-a02bf4e9bcfd.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "bac98c43-6e7e-4287-92de-119100adf1de.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "5c063c9e-07f3-4ea3-bd09-3a4fc79ae9a4.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "24bf66ac-daa0-4b0a-9b82-2604b59e1fe0.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "10af0f1e-baa1-4fce-92e5-34220abe14fd.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "colors": [
+                " blue"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "10f44652-89a8-43dc-b620-cc05c9470158.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "b853d17c-13c6-4681-bf28-a2cce0868ac9.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "3e36cd07-ae28-4db1-9b64-43d871d8c4d7.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "fc19b00b-4236-4f95-9adf-b0703240faeb.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "bb8c6384-5519-4ffd-a609-e8682943aef6.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                " No polyps",
+                "An image of normal pylorus. No polyps"
+            ],
+            "anatomical_class": [
+                "An image of normal pylorus. ",
+                "An image of normal pylorus. No polyps"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 2,
+            "anatomical_class": 2
+        }
+    },
+    "18d4a071-1a4c-4ffa-afae-11e5c3c77e42.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "colors": [
+                "The anatomical landmark is brown"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "a51eb0c8-4591-408f-8777-e2a079662242.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "e4181088-600a-4598-830a-0dab961dcc16.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "f8b11f02-19a4-42f3-b98c-7005d9107f03.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "b121f968-8403-4dee-acaa-7ef329ff672f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "88a8055d-cce7-4868-8647-b389f8d0b316.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "colors": [
+                "grayish-pink"
+            ],
+            "locations": [
+                " One polyp is present, located centrally on the left side"
+            ],
+            "numbers": [
+                " One polyp is present, located centrally on the left side"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1,
+            "locations": 1,
+            "numbers": 1
+        }
+    },
+    "643d529f-dd49-4818-8c2d-07db0d5bea01.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "ffbccdd9-a276-4625-bf65-9e594985b7e2.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "80c6f79a-c028-4cfa-ab9f-2c6a93a9042c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "98c057ef-0b40-4856-ba3f-4fffd9cf7523.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "c424e137-66dc-449d-a70e-e6f28ea7a49d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "3b1c7efd-ca13-4b6b-be4b-007e5d6286a1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "3ff557d3-646f-4ddc-bc2c-d12adc600306.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "918b1ec8-5d17-4b6e-bbf7-6577403e7d55.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "red"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "e910fa8e-804d-46a2-aec4-95ca26726068.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "colors": [
+                "yellow"
+            ],
+            "locations": [
+                "located at the right side of the image."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1,
+            "locations": 1
+        }
+    },
+    "700324aa-ab66-42d5-a94d-c8453edef795.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "58f7eec4-9506-4090-bb00-5ddbbbf6f6c8.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "locations": [
+                "One instrument is visible in the lower section of the image."
+            ],
+            "numbers": [
+                "One instrument is visible in the lower section of the image."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "locations": 1,
+            "numbers": 1
+        }
+    },
+    "a46e59b6-07a7-4eed-8c68-eaae61a51e79.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "a4b9e607-433e-4d47-8e41-284083e61d3d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "colors": [
+                "showing a reddish color"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "ccad947a-e0c2-4fb0-8bb8-0a37b15cf681.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "b18e7b6b-8a3c-4d3f-aede-42cef78ec091.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ],
+            "colors": [
+                "light brown"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "0fb8d1f9-1d43-425c-8fb1-f7fe7e4becf4.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "39bf11bc-8a86-4a27-ac3d-56cde7640547.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "colors": [
+                "The anatomical landmark is not distinctly colored."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "52157fe2-28c1-423b-a4c8-8dc9735fc1fc.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "5390f72f-bdb7-40f5-950b-cd6c24dc0b75.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "7334c135-5f53-4770-90a3-7d74f1a08e73.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "c7ca5137-2a2c-43bd-a430-13ef512a0c9d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "d79b8ffc-6ab9-45f8-b226-6a40aafeb9b5.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "6bc45c69-8764-4380-bae9-9181692739b9.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "0f7e595d-9f64-48dd-870b-5c47aa6e6b8c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "colors": [
+                " light brown."
+            ],
+            "medical_findings": [
+                "There are signs of inflammation "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1,
+            "medical_findings": 1
+        }
+    },
+    "ac63050c-e562-42d4-adce-bce3d09b61b1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "03b8aa05-011e-4c2d-94e5-f8054d760a27.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "colors": [
+                " No anatomical landmarks are distinctly colored. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "4550d269-401e-4ef3-b26b-84ea334d01ed.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "colors": [
+                "The anatomical landmark, if identifiable, is not distinctly colored."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "622b5c30-78c5-4330-beaf-d4cfcb7c8ce0.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "00adb051-3e76-4482-b0e5-5207a028470b.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "c7ea0395-7b19-4451-939a-e5f99c41a680.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "02bf2d8c-ca06-465c-8494-83db29242ac4.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "d7bc7cbe-ac5c-4919-9fa4-825c4edd2143.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "d18c0598-5747-4f2c-9f79-7bb2fae51740.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "31861d8d-6ce1-4b26-a589-316cef223ee1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                "bleeding"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "3b309340-0d91-4848-a6a3-57149c34b499.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "4b457254-1939-46ff-9ed2-533c4cc0dc25.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "71e23057-21c0-4c49-b9c7-d6c231387c37.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "e776865d-dc19-4f83-9e5a-00d8ba3f0508.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d4fe7e05-367f-4c7b-885a-f6f88d388692.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "65e4d45e-193c-4f67-a698-874c5b90c47b.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "cfc39f0a-8aad-4d91-9cf6-899abc19fb43.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "f8e85ccc-d01c-4ee5-b3cc-53eeffb70b34.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d25e3269-fba0-4256-973e-2d2c32d59846.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "35a62d68-ad65-45f1-8cd8-6aa890db71b8.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "a3142ab8-366d-4c6a-8004-d793a335398f.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "65d4b5a5-7183-47dd-be70-720c126d288f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "32944763-eed7-472e-bde9-74caf126805c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "f9e93f45-4430-4087-a13d-daf39f99acaf.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                "with anatomical landmarks visible but no polyps "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "9cf73cf0-82ff-4d70-83d4-e46b3649192b.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The abnormality, if present, is dark-colored and located centrally."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "4853f155-4e42-41e0-88d5-2f7233902849.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "3d7e90c2-ccbe-459a-9a51-7e4e78d19605.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "683454ba-aa6b-4c3a-8f7a-e9da5a9632f6.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fe08a0ba-9e51-4333-99ca-462aebe009fb.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                " The polyps are located centrally in the image."
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1
+        }
+    },
+    "a481bd68-9711-4a86-88e4-191f66fc3f38.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "2e8dd677-571e-4e92-94ca-929cfe4575a2.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "9e6cc395-00a4-4315-bf4d-69a0f2114f25.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "cbd30bcd-e2ec-478f-af22-ef68468277ee.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "9d1f6229-130d-411b-9344-e0db077e5a6e.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "3bfd6b8b-3ae9-44b5-b4ab-61ba4f169dcf.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "97867a53-bb29-425d-a288-56f703bfda58.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "86739b62-e86c-49f9-8d9c-2615d8a9a0a1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "12fbe984-f5dd-479e-929b-6e71102c1993.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "103ea26c-89fd-4cdb-a1f0-c1fad04da7b1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "f98a3f6f-c0f8-479c-b4cb-10c8bf334864.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "aa8cb3bc-c11c-4b2e-811a-38f18795ce52.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ],
+            "locations": [
+                "There is a dark abnormality in the center"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "locations": 1
+        }
+    },
+    "d7ae6930-e393-460c-8e0c-19414dada5a9.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "bba3ca13-8cf8-4721-91ef-29a281655c3a.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "a1ea5afc-53de-4c63-a1bc-5b99ea47f1f6.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus.",
+                "which is the mucosal folds"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 2
+        }
+    },
+    "2ea7638d-ec4c-4257-9138-61ff7add9af7.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "949240b8-f237-40f0-b58e-98c80eb7a517.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "3662a9bc-b209-432b-9ab4-ca8ccd540b7c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "e44efc36-49f0-4dd7-bea8-1b07d21d7063.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of Normal Cecum"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "10f25b4e-9c94-4b8d-af0f-d4d820d52092.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "91391ec6-d297-45b2-b7a7-82a2a473641c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "46b9af9b-df93-4cb4-9a27-fe2c758f1a29.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fd4b4be4-171c-4e5c-b8b1-3e9896eb073d.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "09b936c2-d78f-42dd-a09d-61057549e4cb.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "c12c5425-1a2a-49e4-ada4-0567d306767d.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d14aefa3-f866-40f9-9a4f-4081e4935c36.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "4b38d164-4a6b-4edc-9603-6ed6e838cfe5.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d6be9846-972d-4293-9c83-a9eec6668a8a.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3c1af6d0-f291-479d-80c1-46c892152974.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3ea886f3-0220-4b8e-ae13-6960a6866846.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fa3838fc-8d36-4f1d-8454-1529b48732a4.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "23a964b5-fc4f-463f-a987-e6684d18a3a1.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "30f0d072-f53a-4dbe-8d96-5d5b9d0e9e43.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3ef58f64-0c9c-4985-8641-0db885028d9f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "colors": [
+                "brown",
+                " A brown abnormality is present near the center."
+            ],
+            "locations": [
+                " A brown abnormality is present near the center."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 2,
+            "locations": 1
+        }
+    },
+    "d30ae03b-9ff9-4ef7-a70b-26759c3d93d3.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "ff2f37a2-6290-45fa-a9c6-45b987e84d97.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "20aaa79f-0625-4acf-b13f-24a8cf49a7bd.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3a677aa1-89c3-4e2d-8dac-15562959f065.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d1caf825-4453-454a-9f0d-d9d3c079d7da.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "4c10e6d6-154a-4364-bfea-f1be64dab09c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "88104218-58e9-4ce7-a361-aac71c7dcf08.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "e89cf723-e84b-41d9-9f8a-158f0fdf43e8.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "0e0fae29-2b15-4dc2-aa4f-ed8b9e045c3f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "numbers": [
+                "There seems to be one polyp present."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "numbers": 1
+        }
+    },
+    "6ea979d7-209b-49bf-ab40-c9dc4c277231.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "0ef02163-5a95-46d2-a270-3dcf021109e8.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "a0315140-77ae-4301-a350-a1c66582dfe7.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "9ccbbce4-b7d7-4165-8809-86d3f12126ed.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "9fe7a7e6-0085-4245-bf76-e0c322fda9ea.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " There are light brown abnormalities present, located centrally within the image"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "66fba2df-e37f-40c2-bbdd-741ae3f982e5.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3ad02972-62f0-4163-bb40-2064a11675e6.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "30bbc4ab-ba6e-4949-b890-8a4657d1ee61.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "c5570744-02f2-454f-8936-e357d9ba934c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e7e495ed-5afd-4322-b8b2-5339b9f44a41.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of Normal Cecum"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "ba84197e-fe95-4bae-b947-360de3b45e31.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ceb61e27-08b3-4887-8bde-3c8f6c537e28.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                "There is a reddish abnormality present possibly indicating inflammation located centrally"
+            ],
+            "colors": [
+                "There is a reddish abnormality present possibly indicating inflammation located centrally"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1,
+            "colors": 1
+        }
+    },
+    "4be5cc10-a569-4443-856c-79603429e49f.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "49cf77e8-4793-4c5a-b398-8e8128e1a03e.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "colors": [
+                " The image shows a brown anatomical landmark without any abnormality,"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "ec938785-204b-442d-8df3-3cb16aa5c0ed.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "48ea43aa-0e90-421c-a0ff-807b5a136d04.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fe642d61-d409-4f0d-b71a-01e22b790fc4.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "264c03bf-a4e1-4dae-9b7b-6550822fa2f3.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "45f34c02-4188-4486-9f03-32b61c1eda19.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "c35e5375-1887-4c21-ada7-77c465ba5ea7.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "f9ea9fbd-52ab-4143-942e-d5bdb1871d3a.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The abnormality is reddish in color. The anatomical landmarks are not specifically identifiable in the image."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "254ae9d3-0d1e-41b1-835e-8274b859e5f0.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "52a42285-8c36-43d1-a194-12219d7f09ed.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "2818b034-d771-4572-9e80-6460f09f15e8.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "626bff52-4732-4b19-b6f6-8d863b27f509.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The abnormality, if present, is a darker, depressed area on the mucosa. The anatomical landmark is normal mucosa, which is pink."
+            ],
+            "anatomical_class": [
+                "The abnormality, if present, is a darker, depressed area on the mucosa. The anatomical landmark is normal mucosa, which is pink."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "anatomical_class": 1
+        }
+    },
+    "7dedfd42-79ba-446d-86d1-bb78350e14bf.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The anatomical landmark is pink."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "158e02a2-d752-4830-a528-ae2a21634b2e.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "a98798d4-7c1f-4dc7-8d7e-377b85f037d7.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fc1c7f84-220f-4f26-b9ba-3674b01e4207.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "06847293-7b3b-4b4e-96f1-aa144a5c725d.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "149cfe53-bc42-4873-89b7-c9d3ebdae285.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmark is mostly a consistent yellowish-brown"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "335543b0-fc36-4b52-8e5f-f0de5ffabd7b.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "90f45cdc-b5cc-4fd2-9301-0d4cadf8f048.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5496b863-5312-4e27-a222-24bc43f4e980.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fcb5a6b7-9a2f-45cc-a400-930e32d070c1.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " There is an abnormality that is greenish in color"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "ded1855b-d337-47f5-ac6f-48bc1635c905.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "31a1be9c-eb05-47af-9216-42408bd3b8d7.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e22e00f5-8ad6-4839-b509-9617f3f35b92.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "c3cc4e95-5ca0-4af2-a17a-5525b9a207a7.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ab49fd75-ec47-4a3b-b6a8-9fcf94e4b4bf.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The abnormality present appears greenish in color",
+                "The anatomical landmark is reddish-pink",
+                "The greenish abnormality is located on the mucosal surface."
+            ],
+            "anatomical_class": [
+                "The greenish abnormality is located on the mucosal surface."
+            ]
+        },
+        "frequency_count": {
+            "colors": 3,
+            "anatomical_class": 1
+        }
+    },
+    "561cc7f3-763c-42cf-b0f3-9e8909b0bf98.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is an abnormality present, which is polyp; brown in color",
+                "There is one brown polyp in the center"
+            ],
+            "locations": [
+                "There is one brown polyp in the center"
+            ],
+            "numbers": [
+                "There is one brown polyp in the center"
+            ]
+        },
+        "frequency_count": {
+            "colors": 2,
+            "locations": 1,
+            "numbers": 1
+        }
+    },
+    "079c1eaa-541b-456c-8e42-3e408a3d29ec.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The anatomical landmark is predominantly reddish-brown"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "1f584087-09fa-4d47-bd8f-89dc5cc7bed6.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmark is predominantly light pink"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "e8a4ffdc-4d9d-4aef-80c0-a599615ac53d.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The anatomical landmark visible is a part of the gastrointestinal tract and is typically reddish in color"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "1e2720c4-d073-4335-9315-3745f36df90e.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "he anatomical landmark is primarily pink",
+                " The anatomical landmark is primarily pink"
+            ]
+        },
+        "frequency_count": {
+            "colors": 2
+        }
+    },
+    "21d6e444-2824-41ab-bc00-60adb117ebba.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "81db78d4-e19c-484b-a238-656669d83eb0.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is an abnormal area shown as a darker brownish region.",
+                "The anatomical landmark is the overall mucosal wall which is light brownish-pink."
+            ],
+            "anatomical_class": [
+                "The anatomical landmark is the overall mucosal wall which is light brownish-pink."
+            ]
+        },
+        "frequency_count": {
+            "colors": 2,
+            "anatomical_class": 1
+        }
+    },
+    "40d1b2ec-9b28-40cd-8996-0d06492351ef.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The anatomical landmark is a reddish-pink mucosal surface"
+            ],
+            "anatomical_class": [
+                "The anatomical landmark is a reddish-pink mucosal surface"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "anatomical_class": 1
+        }
+    },
+    "806b485d-f403-4eab-b405-14d19bd9665e.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The anatomical landmark is light pink"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "cd5ec8df-6d40-4e13-97dd-ec668cbd7bea.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmark is brownish in color"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "890caec6-3831-481e-a90a-cfb023e46860.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " An abnormality, a polyp, is present and appears pinkish-red",
+                "The anatomical landmarks are typically beige to pink"
+            ],
+            "numbers": [
+                " One polyp is visible, located centrally."
+            ]
+        },
+        "frequency_count": {
+            "colors": 2,
+            "numbers": 1
+        }
+    },
+    "3828c286-dc25-4129-b1a4-d13db3cd9de2.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "1e03a773-0ccf-4360-889f-328b0720b878.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "0f04fc18-1740-4259-ac97-a7853a6e4486.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "The anatomical landmark seen is the normal mucosa"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "84021430-f577-447f-b103-215b82e12843.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "There's an anatomical landmark, the mucosal folds, which are tan in color"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "a35c3092-2eb7-4669-8794-3c68764a764e.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "An abnormality, possibly a polyp, is yellow and located on the left",
+                "The anatomical landmark is pink"
+            ],
+            "locations": [
+                "An abnormality, possibly a polyp, is yellow and located on the left"
+            ]
+        },
+        "frequency_count": {
+            "colors": 2,
+            "locations": 1
+        }
+    },
+    "0db6d3b2-52ca-493c-aed2-040695867805.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "9f87c0b2-c0f9-4488-946c-fb38fc3e96b1.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "bdcee218-865a-46fa-a7a6-3f65b1f0a650.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "b4d17a32-6108-40bb-93a3-67c89807f101.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There appears to be an abnormality of yellowish color present. The anatomical landmark, possibly a part of the gastrointestinal tract, is mostly pink"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "1113efb0-dfaf-4086-9ce9-c173749065db.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "f962619c-7482-467f-b37a-4ed740c3c62a.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "1f6ad53d-5fe7-4abb-abc0-6b8acb4692d6.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fe3682ba-4b7e-406d-97c1-accb63b162c3.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                "The obvious abnormality is the polyp in the center"
+            ],
+            "numbers": [
+                "One polyp is present"
+            ],
+            "colors": [
+                "which is flesh-colored, matching the surrounding tissue that serves as the anatomical landmark"
+            ]
+        },
+        "frequency_count": {
+            "locations": 1,
+            "numbers": 1,
+            "colors": 1
+        }
+    },
+    "32f1e163-9019-43e5-a2e8-54be53402202.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "colored orange-yellow, located centrally"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "6c0ec7b6-6591-4b42-8b84-9232c65a3efd.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The anatomical landmark is pink."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "46803d78-c875-4d56-8b44-7e1e9abd27e1.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ed50441b-70f3-4d3c-bc90-e5b55b13e8a8.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                "There are no visible abnormalities, polyps"
+            ],
+            "colors": [
+                " The anatomical landmark appears normal and is colored brownish-pink."
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1,
+            "colors": 1
+        }
+    },
+    "029c1dcc-3081-4382-bfb4-85f0ed69c04c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "4f65a8fd-cd20-469b-b9e2-92bdf4712a48.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "046ea931-dfd4-477b-8d9d-f6e892681166.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The anatomical landmark is not distinctly colored but is generally pink"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "4e4074f7-1fc7-46ac-9d13-95a67f25e73a.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3a5a9b76-7d49-4302-b8f4-fd1b0f3ef457.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "visible are mucosal folds, "
+            ],
+            "colors": [
+                "which are light brown."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "610d967a-2ed7-403a-ad27-8f9901cfbb12.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "899b546e-e480-4d57-b29c-901f1224abd7.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "2e313668-d14b-448a-a19f-8afd55a6ceca.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fd597296-296e-4147-8101-5e786d3165d5.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "efe72d05-392b-47f3-ba07-28d5ac8c75a0.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "reddish-pink"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "50964a22-20e1-467a-8d12-f54bc4e9bc65.jpg": {
+        "incorrect_texts": {
+            "numbers": [
+                "One possible polyp is observed"
+            ]
+        },
+        "frequency_count": {
+            "numbers": 1
+        }
+    },
+    "1bbf25b7-be2c-4d54-9166-59feeff9c234.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                "The abnormality is present towards the upper left quadrant of the image."
+            ]
+        },
+        "frequency_count": {
+            "locations": 1
+        }
+    },
+    "01c49663-9674-44ae-b61e-05243a30e4ab.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmark is light pink"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "831db0a8-17a5-4d31-ba13-135c81a46b25.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmark is brown in color"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "64f54132-5171-48bf-886d-7c13fd6e3d91.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " An abnormality is present, which is reddish in color, located at the lower center region.",
+                "The anatomical lining is flesh-colored"
+            ],
+            "locations": [
+                " An abnormality is present, which is reddish in color, located at the lower center region."
+            ]
+        },
+        "frequency_count": {
+            "colors": 2,
+            "locations": 1
+        }
+    },
+    "2c83c4b0-3a5e-4c77-988b-9e41bfefeebe.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "7204f536-c4d0-4f7e-a85e-2c40189e4b4c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "973b8928-c4eb-46c5-86d0-78a06e620595.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "17b2c0c7-a60d-4bb1-ab83-6847fdff6f12.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "4e661655-fa5e-40e5-8786-c02fe567ee92.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "dc195448-2919-45b3-8b74-119ff48549f3.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The abnormalities are reddish, located on the upper right side"
+            ],
+            "locations": [
+                "The abnormalities are reddish, located on the upper right side"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1
+        }
+    },
+    "2b9dad7c-1697-4608-b1c0-370f88a230f6.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " There are yellow-colored abnormalities present,"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "21f2237a-6e54-46c5-b1e0-92384044a018.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ff9ceccd-c865-41dd-abc3-6ccf8482365a.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fbecb649-240a-4e55-bb35-24409900e6ea.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                " Inflammation is evident"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1
+        }
+    },
+    "33d1e57f-081b-4d06-90cd-e09db6e53504.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is a yellowish area present on the upper left side"
+            ],
+            "locations": [
+                "There is a yellowish area present on the upper left side"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1
+        }
+    },
+    "4dd50db8-ae0a-40a7-86b6-3524764e4696.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "36a099a7-e47b-491b-a29d-f3417ebd3cca.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "9af8d52f-c3f9-4a7c-81db-dcb14db668ee.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "820ebb5f-9327-4969-8ff9-de625d82db3e.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is a yellow abnormality present on the surface"
+            ],
+            "locations": [
+                "The abnormality is at the center-bottom of the image"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1
+        }
+    },
+    "6e58d400-37b5-44da-b1bc-b55a0501bcf3.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The anatomical landmark is light pink in color"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "261139a2-2e5a-4309-bd3b-1d3bcd8b95ed.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "02f88968-7b55-468b-ae66-a0458c7d874f.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "4a435c62-98a6-492e-88ed-fc3744729fc1.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d68aa2ce-0929-4cad-9845-1e4046cee3ff.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "4b80a36d-6b50-4315-a3e1-3e35a9293f24.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " There is an orange-colored abnormality present",
+                " There is an orange-colored abnormality present, possibly an inflamed area, located centrally within the image."
+            ]
+        },
+        "frequency_count": {
+            "colors": 2
+        }
+    },
+    "c22eeaea-0ccc-4d72-81d3-a6fb4275a50a.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "00f3d2cc-93ea-40f0-9b88-b159b07a49cb.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "76142b66-76be-4152-a600-86ff519098a7.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5685143f-b2d3-46de-92fe-5e2d59b933b6.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "195adde8-f99b-4f01-9dba-a8cd573cd26b.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                "One abnormality (no polyps) is present in the center of the image"
+            ],
+            "locations": [
+                "One abnormality (no polyps) is present in the center of the image"
+            ],
+            "numbers": [
+                "One abnormality (no polyps) is present in the center of the image"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1,
+            "locations": 1,
+            "numbers": 1
+        }
+    },
+    "ec23e294-0b60-4d8a-bd60-80922391b713.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "bb50f74c-fe8b-46b0-8603-f1b253dc13fe.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "2ac19269-ac7f-4c85-83f2-49f11889121c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "01af3454-037f-4708-b73c-6ec4423b6a61.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "b5c09acc-e325-4ebe-86c2-d52e31671043.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " There is a yellowish abnormality visible."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "e3067ea9-17ea-467b-ac7b-c6a4e338eb9c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5157b246-d1a7-4b33-97f1-ccb7a1c50124.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmarks are normal and are a reddish-pink color."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "7cd6e447-1567-4153-bde1-9e38d5f929fb.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmark is primarily reddish-brown."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "01e023db-5c76-4c28-91ab-06e36cd31495.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "aca3460b-e4bd-4f70-a246-2e93f74161c3.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                "Abnormalities include signs of inflammation with reddish coloration,",
+                "The inflammation is diffuse without any specific abnormality seen."
+            ],
+            "colors": [
+                "Abnormalities include signs of inflammation with reddish coloration,"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 2,
+            "colors": 1
+        }
+    },
+    "ee8ad39e-2348-4c1b-9a25-07da4c416a68.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                ". There is a small polyp present, located centrally in the image and is yellowish.",
+                " The anatomical landmark, the colon lining, is primarily pink."
+            ],
+            "anatomical_class": [
+                " The anatomical landmark, the colon lining, is primarily pink."
+            ]
+        },
+        "frequency_count": {
+            "colors": 2,
+            "anatomical_class": 1
+        }
+    },
+    "3e17c465-0310-4f89-97ba-5b61e6c4e7b8.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "0f601b5d-d7ea-4bd1-af97-3fe395620a39.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical structure visible is light brown"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "8a597f64-3d9e-4e44-ad4a-773686a09bd4.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d74a5fc4-5e4f-4c50-ba13-4ea06206e610.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is a visible abnormality that is dark-colored."
+            ],
+            "medical_findings": [
+                "The abnormality is centrally located and there are indications of inflammation."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "medical_findings": 1
+        }
+    },
+    "bd057379-54e1-456f-ba39-60e533495fc5.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "f016a070-7ce8-4ddb-b6c3-6060a44faa7d.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "9c4989b3-a01b-4228-b8bc-d6c6d8aa8aba.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                "Inflammation is evident"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1
+        }
+    },
+    "1bfd70bf-c796-4bfe-b60b-17b72094b6b2.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "49da2176-6517-42bb-b2dc-a152c705fa53.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "1ab067f8-bd10-4937-9a85-6617541144bf.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "0c192d17-18ae-4731-bbb5-1117b8576466.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "a9e893c0-bd8b-4a3a-b5ec-485becab62a9.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " There's an apparent abnormality appearing brown in color at the center"
+            ],
+            "locations": [
+                " There's an apparent abnormality appearing brown in color at the center"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1
+        }
+    },
+    "8ca2c552-85bd-4f37-bac1-ba55913f242d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                " The anatomical landmark shown is likely a portion of the intestine."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "80f84c27-5cfc-45b8-9a9e-1e3ba58fe646.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3aeb1ebc-1274-4fe8-ae59-940c583a83bd.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ed9f4638-9b6a-4ce8-85e6-cde6a197a6e3.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e45b7e1e-a014-4301-bda3-7cac7f05ca97.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "bb03cd32-5c70-4fef-aa1f-d815a3845f75.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "2a59a5cc-1f87-4c9b-a50d-9dca26974bc0.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmark appears as reddish-brown tissue"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "578954ec-5b69-454e-a1b1-2c2064a0f85a.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8ea05ad6-2986-42af-a856-ccc3ac9d704c.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The abnormality is brown and located near the center"
+            ],
+            "locations": [
+                "The abnormality is brown and located near the center"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1
+        }
+    },
+    "8c54899b-27ba-42d3-8b03-17785fb84a59.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "45378f6e-0d63-4f38-95e5-3b31cfa46ae6.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "b56f00e4-43d8-4e8a-89b8-39f8c951f1dc.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "b02f7af8-ce09-4494-a5af-ed84c38c8fcd.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "2bd8410d-b584-4be0-9760-1985f49f508d.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ed73c679-7ead-4590-9ef6-66d1ab89de94.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "4e274b65-e8ff-4f06-99f5-68ed05858532.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "23277709-ff55-47d6-9c20-dc14f6208306.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "86f79a1f-7f89-47fe-827d-44ddbd856d49.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "afb4a8bd-1866-4ef9-86e0-b88c3d9818ce.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is an abnormality that appears to be yellow, located centrally"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "8d691c91-04e8-4a2b-8760-a00c518e9ea8.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The abnormality is pinkish and located centrally."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "5e8eeff6-7790-428e-a220-4d1eee4f96f8.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "7ace0d78-4508-470e-8c7f-919ce50dd901.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "37d19413-4d04-48ca-bc3a-b616e23e4ecf.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d3f32e04-3b95-41a2-aeb9-81000ce7894d.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "46bcf894-2e04-4204-8730-10e4b65d6cd0.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e225dce6-b400-4a16-9008-c6880ff299a3.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "437bc72c-2d70-47b2-bb4e-95d94fbba7ed.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5cb6d900-c930-4094-91ca-ccff14a2e176.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There are yellowish abnormalities"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "8e5d6f5f-0f0c-4ac9-9a5d-ff3278136ae3.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "9bdda2b3-df46-441b-9675-8d8a92789c7d.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "1d1593ae-6e02-46de-9d95-9a9e4bd2270b.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is an abnormality of reddish color in the center"
+            ],
+            "locations": [
+                "There is an abnormality of reddish color in the center"
+            ],
+            "medical_findings": [
+                "and possibly bleeding"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1,
+            "medical_findings": 1
+        }
+    },
+    "914bf111-bc57-4a52-87f7-cc6ed77fbc04.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "01b9de1c-1481-4056-b27a-4d8fa09da06f.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "98df6a55-25ea-4387-a61b-815c623916bf.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "35f15806-0dbb-4c2a-b79f-e863680f9457.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "1ac61eb3-2323-438c-80c0-41aef0957e60.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "The anatomical landmark is the mucosa."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "00b99f19-2c31-4c7c-931a-4c3b38d70d1a.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d35bb433-48de-48e6-8821-6bc6a5c614b1.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "b8cc620a-6297-4ac4-91a4-c29870e2c704.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "9fa9ec67-42b3-42a1-8e96-c339394617df.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The abnormalities present are yellow and brown"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "5e73a118-4d47-495e-bd89-98df4c156533.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is a small, dark-colored abnormality present, possibly a polyp,"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "efdc1f58-58be-4762-95b8-6abfa8b28fb7.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "7950c56d-85c1-4f00-bb77-291c647ffb13.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "67d81f62-08c3-44ce-9a85-dc2fbe6da942.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "31b6e5b0-da4d-465b-b7f3-6f588b9e7173.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "68b57fc7-e33b-46f0-9c41-a64845b99638.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "a0ff8429-d667-4630-ab56-2286b1e3d74b.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "2a0c841d-439f-48af-ba0a-3f620c42ccfe.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "21d92424-f213-45c9-9e47-5a622c128a3d.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5fbf4d02-4fbf-4870-903d-99b38192c6fa.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ecb1054b-0c9c-4fe8-be97-8f948b8d776f.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "65e161c3-2051-4165-a5dc-db16645f12e4.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "7f607ea9-1c1a-4e65-9888-7db35c807f59.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "b9726a70-6e02-4907-8f3a-4b8b0285d41c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "2a5545dc-dbc0-4b9a-8d7d-bdf549652a02.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is an abnormality that is dark brown, centrally located"
+            ],
+            "numbers": [
+                " One foreign body is present,"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "numbers": 1
+        }
+    },
+    "8fd670b2-1004-4a2e-933c-50bf8e7c828e.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "342a1c85-c028-4509-9f1c-b1ce76751f5c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8ca68ff5-c35e-4e13-be88-071aa008cc30.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "dc59b993-65ee-485d-bbcd-5b33734f2799.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "0b08df09-8f8e-49e5-9b5d-9daedd37760b.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3909e6d9-61b3-4d36-82cb-0952fdddfd3f.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d7def39b-0efe-42cf-9d0e-625a1c24938e.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "db5b5e06-5f8e-4ee3-94f0-56bc6f7b2617.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "7db468f8-113d-4e85-a229-02a20f20c671.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ea510ea5-8697-4a6f-a86e-f8720c761e53.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8ca0f045-3b47-41cb-8dcb-b9716baa713f.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "1b06a2a7-fcf3-4ff2-bde1-a2b519266c86.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "abddc4de-8dcb-4468-9525-7a6b0c9a1171.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmark is not specifically colored,"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "32767012-bf87-42e4-aa1a-e858cdc8f24a.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is a dark-colored polyp-like abnormality present in the center"
+            ],
+            "locations": [
+                "There is a dark-colored polyp-like abnormality present in the center"
+            ],
+            "numbers": [
+                "and there is one noticeable polyp"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1,
+            "numbers": 1
+        }
+    },
+    "7a3ee764-c145-47a7-9c73-dad26c5b20a3.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "1ae4a354-2392-4c30-a9fc-808d91c795e1.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "c05639d0-1f25-4f56-ada6-9623875a05aa.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d3d72cc3-3d1a-42f3-b217-ce7ac4a24e10.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e4b8f875-5602-474a-808a-890eefb5f255.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e42681cd-3c60-4bac-ba25-b5c82d1cef52.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "b723b2c8-6aaa-4d0a-a0a1-945b48c84653.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "512991b3-3fd1-4a88-930b-ade0606355ef.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "1c958c97-e209-413d-a63f-48d7746d8fad.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "6d3d8f03-1ecd-4beb-830f-76cdb17f6b7c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "28bfe970-150a-4b8f-b392-ed080cac4dfb.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8add4c8d-2c48-4112-baf8-1d726912dd00.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The abnormality, a reddish lesion, is present, and it can be seen on the upper central area."
+            ],
+            "locations": [
+                " The abnormality, a reddish lesion, is present, and it can be seen on the upper central area."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1
+        }
+    },
+    "7facfd71-c2da-4dfa-8764-251327dd32f2.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3bf56e13-ef37-48fb-b6c1-a7220c9b3ae5.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "eadfaf8f-884e-4702-8496-f48cdcd37389.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "4d7b0558-7862-4720-99fe-cef1b28633a9.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "7ca978f1-93fe-4ea6-8a94-106f48c8e01a.jpg": {
+        "incorrect_texts": {
+            "numbers": [
+                ", located at the bottom, totaling one."
+            ]
+        },
+        "frequency_count": {
+            "numbers": 1
+        }
+    },
+    "dba5c76e-3d02-4b36-821d-6e8484f754fe.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "b381de8f-148c-4959-ae10-fbc07a0ff244.jpg": {
+        "incorrect_texts": {
+            "numbers": [
+                "Only one polyp is observed."
+            ]
+        },
+        "frequency_count": {
+            "numbers": 1
+        }
+    },
+    "1ba87bce-33b7-415f-8b93-dff1266b25ae.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ec129a74-4929-46ca-a0ad-82bc0c465df3.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " which is skin-colored, located on the right side of the image"
+            ],
+            "locations": [
+                " which is skin-colored, located on the right side of the image"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1
+        }
+    },
+    "a3cf9797-01ac-49d7-8912-53f2fa39442b.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "1a5809f8-a660-4b09-8faf-c994e0c5fdd2.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8f238807-b3cf-4b78-ab1f-26a70514e025.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "cd5bfd00-a60f-48b9-b892-222f509e7388.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5cb44d15-b550-4b38-8dbb-30f908de309c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "035cea82-2bc7-4dd8-8553-11cc1c0866cf.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "a47588f1-e876-4991-9304-b9cedfa292ab.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5dc82fec-59c2-4b37-9384-b924d0d41533.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The abnormality, if present, is yellow in color",
+                "The anatomical landmark is not distinctly colored"
+            ]
+        },
+        "frequency_count": {
+            "colors": 2
+        }
+    },
+    "5b1b2b8a-fd6b-469d-82e6-4e107f90a37b.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The abnormality, a dark-colored polyp, is present."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "af744492-dc36-4f70-95e8-9056c462eaca.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "827fec7a-eb4a-44fc-9ecd-6e555fc6c810.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "06a5474f-cc47-4380-b136-c80ff68e2ad7.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8bb731fc-b025-420e-b43d-87c803ef4f37.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8fc67f55-ecbf-43e4-878e-60f3b7edd596.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "2c3eb894-3a67-4cf4-bc75-9bd7442c9709.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e647bef7-a685-4c49-8b2c-77dc089e631c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "a3591c76-0762-4671-9d02-7c52c83cfb36.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "2e0a9124-ff1d-4d07-a262-88196a8ff275.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is a black-colored abnormality near the center.",
+                "The anatomical landmark is the surrounding tissue, which is pink"
+            ],
+            "locations": [
+                "There is a black-colored abnormality near the center.",
+                "A single instrument is visible in the left lower area."
+            ]
+        },
+        "frequency_count": {
+            "colors": 2,
+            "locations": 2
+        }
+    },
+    "d0c1e630-c4c7-4d1d-b605-ae486ff0fecc.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3c5e4f93-4779-44fe-8c68-0e4f30439597.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " An abnormality is present as a white spot in the lower left"
+            ],
+            "locations": [
+                " An abnormality is present as a white spot in the lower left"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1
+        }
+    },
+    "08f52cdd-643b-44e9-a8cb-3955d675c49b.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d1b058f0-a415-4928-8180-68a2848f46c2.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                " There is a small black abnormality in the center"
+            ]
+        },
+        "frequency_count": {
+            "locations": 1
+        }
+    },
+    "c0eb430a-2ffe-4256-9493-4c098cd68ca9.jpg": {
+        "incorrect_texts": {
+            "numbers": [
+                "and one instrument is present in the middle section of the image."
+            ]
+        },
+        "frequency_count": {
+            "numbers": 1
+        }
+    },
+    "ae9eaa51-74ae-4b89-a568-94fbf536b434.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d0933428-9189-4731-965f-f960fdb42d13.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5c02f74e-0e88-4335-869c-0f70b2918c85.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d7506dc7-132e-4534-a27a-53f1830dfaaf.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d9a75a4c-e5f1-49b3-9bd0-9efa61737c74.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e1e5984c-003a-4465-8a64-1612cb1517e0.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "c99aac5f-0dd3-477b-b63b-32797f9ce3f9.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "9d648e67-48f2-4b9e-a376-b64bc51e2c66.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                "and a black instrument is present near the center."
+            ]
+        },
+        "frequency_count": {
+            "locations": 1
+        }
+    },
+    "3f03c9b6-cc9f-48f3-92cf-4be9163d9661.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is one dark-colored polyp present, which is an abnormality located in the center."
+            ],
+            "locations": [
+                "There is one dark-colored polyp present, which is an abnormality located in the center."
+            ],
+            "numbers": [
+                "There is one dark-colored polyp present, which is an abnormality located in the center."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1,
+            "numbers": 1
+        }
+    },
+    "6b428229-461e-432f-853c-b391796e7af4.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "eb71638e-cf60-45cc-b0eb-773cfd784cdb.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is a dark-colored abnormality in the center of the image"
+            ],
+            "locations": [
+                "There is a dark-colored abnormality in the center of the image"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1
+        }
+    },
+    "e9a7b759-6bfb-4f38-88bb-92f51b6f8bb9.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                "and there is one instrument visible in the top right corner of the image."
+            ],
+            "numbers": [
+                "and there is one instrument visible in the top right corner of the image."
+            ]
+        },
+        "frequency_count": {
+            "locations": 1,
+            "numbers": 1
+        }
+    },
+    "402e5c7f-59da-42f7-8677-cb3f502ea3d2.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                " A dark foreign body is present in the center"
+            ]
+        },
+        "frequency_count": {
+            "locations": 1
+        }
+    },
+    "3aa6ad54-6a69-49a6-8fdb-4ed414dbe737.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "624251e2-9822-4e6d-9998-bdda203b6ab0.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ee52d6c4-a9a3-4816-805e-ca38becc2b64.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmark is the esophageal opening, appearing red."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "df90513a-591b-4a7c-bf34-a333867a2eaa.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "0ecbcefc-2fa0-4108-b560-1f779f2b3280.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5eba90fb-9645-4ac7-bdcb-21d067f0272e.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8a51742e-6308-4511-aedd-5d538f9feec9.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d502f96d-1c6b-4acd-9979-41368802afe2.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "eb43ab19-02a6-4314-b7c3-a21678f7d124.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fc7a12c8-250d-4568-83be-d878dae07b4f.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                " There is evidence of bleeding with red spots visible."
+            ],
+            "colors": [
+                " There is evidence of bleeding with red spots visible."
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1,
+            "colors": 1
+        }
+    },
+    "cfd1bbce-510b-4488-8bb9-2ca0c5197a32.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ad8ebebe-ea83-46db-8c9d-7b10047044d6.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "a56b1ad3-bdf3-406e-b075-402fab5ab8ad.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is a dark-colored abnormality present."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "eb8e58ff-1ed4-471c-8510-60b1891afa30.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8a1bc319-0eb3-46d6-84d4-ef9eb5259b28.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "9a59dd60-fb54-424f-ac2e-920ed602ebcd.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                " signs of inflammation"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1
+        }
+    },
+    "463ddc7a-3da7-4066-a078-3ee602b58176.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "b9559ef9-163d-4d98-a8d4-5f058bfa8003.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "43b4efc4-c8cf-4927-a296-dd66ad824a3d.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                "The abnormality is black and located in the center of the image."
+            ]
+        },
+        "frequency_count": {
+            "locations": 1
+        }
+    },
+    "8ba93cb2-2ecf-4cac-9922-74f150385c03.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "There is an abnormality, a dark-colored foreign body, located centrally"
+            ],
+            "numbers": [
+                " One dark foreign body is observed"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "numbers": 1
+        }
+    },
+    "181a2ee5-cd9d-4b6e-92b0-b313805a4931.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e38c7932-c643-4473-ba7a-cb87d59b7eb5.jpg": {
+        "incorrect_texts": {
+            "numbers": [
+                " One instrument is seen centrally"
+            ]
+        },
+        "frequency_count": {
+            "numbers": 1
+        }
+    },
+    "de752efd-1efa-4ae0-852e-29c087a6df7b.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "dd681f6d-c4fe-417c-8365-b61044d2f377.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "bd045f61-d72a-44d9-ae3f-16ce64a57f01.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "9691d075-c3b1-4b62-987e-bfc2d3a65d56.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "c445633a-d1dc-4726-b2b5-5ff717143ba7.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "92124094-a157-4803-af7a-9d354ba6bff3.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3e710c44-5105-4f4b-ac25-39f823eb6cb4.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "6a359da5-45cd-4f83-9269-46eb6e0e6db8.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "a374b84c-2ca2-48a7-8a59-008822167a04.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d04d902f-79c4-4bc6-bd39-c3873fc20e3e.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "656dae35-cefb-4362-8a31-e0160b8c0b17.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "An abnormality is visible and appears dark brown or black at the center."
+            ],
+            "locations": [
+                "An abnormality is visible and appears dark brown or black at the center."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1
+        }
+    },
+    "b56bd5c5-fbcf-49b6-ac9b-1bd2ab65a2cd.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "c66de0d8-ae6a-4799-925a-23caa28ac974.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                "There is an abnormality, which is black in color, located near the center"
+            ]
+        },
+        "frequency_count": {
+            "locations": 1
+        }
+    },
+    "02e55fb2-8a74-4671-95a9-81a97e9a6210.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                "inflammation"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1
+        }
+    },
+    "5adef5ea-f92c-426f-8706-bda65c046408.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fe783b66-c307-4adc-bfe5-1fc0d603a340.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "9b2cf866-9940-4ccd-accb-d02c91dcac11.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "A dark-colored polyp, which is the abnormality and anatomical landmark, is present"
+            ],
+            "locations": [
+                "There is one polyp located in the center of the image."
+            ],
+            "numbers": [
+                "There is one polyp located in the center of the image."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1,
+            "numbers": 1
+        }
+    },
+    "bbe363f1-166b-4836-9491-e81e125122f6.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                "A black abnormality is present in the center."
+            ]
+        },
+        "frequency_count": {
+            "locations": 1
+        }
+    },
+    "7b46e07b-1b32-4db2-a38c-192b904f5bb9.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "bba56fb2-e5ca-4334-8131-15c618bf1fab.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e2b7c3ce-e244-40ef-b6ae-8252fc27e267.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5fc17455-2321-4263-b94b-c8ae20570261.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ae77941e-fab3-4b3c-b8b6-c0559d58870c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "3c38fe0f-a1e9-42ed-a0d8-f0c4bb4d7fb4.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "db9401dd-706e-4518-aac8-1c036029114f.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "a8d8045f-0c21-4706-8b13-ad416e61fa5b.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e615dd66-5c67-494d-9e9d-974b18d037fd.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmark, which appears to be the gastroesophageal junction, is pink in color."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "4e184db2-8160-4f71-9a21-31b3d13838e6.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The abnormality, if present, is dark-colored and located centrally."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "b42ae45f-8564-4c8c-80c0-42fe7d7e09e7.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "dee117e6-b8c9-48e0-ab14-86fd7174b10a.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5b84405a-4e4f-4a6c-a300-454eec34ed9b.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "06d2ed44-a965-4b57-82b9-e3c3624a221a.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "06b0c8b1-e56d-44f5-82b0-6eda4d720a68.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e7b6a704-2e98-4755-88d1-a26dcc29d57f.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "c09fdc85-4622-48f9-a435-eb3a2b32ce39.jpg": {
+        "incorrect_texts": {
+            "numbers": [
+                "There is one polyp"
+            ]
+        },
+        "frequency_count": {
+            "numbers": 1
+        }
+    },
+    "353eb7c9-4b5c-4fe1-b53d-74e0d5cce187.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "cec87329-591b-448b-95f2-5bd06849382f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                " The anatomical landmark is the colon"
+            ],
+            "colors": [
+                "n, colored pink."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "6d32ace1-ab3f-44a5-8d46-c238209b6a09.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8b45a437-310d-40eb-b890-331ff302015d.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "0f6bd435-df6c-4f22-9ad1-b2424e1ab3d6.jpg": {
+        "incorrect_texts": {
+            "locations": [
+                "One instrument is visible in the center"
+            ],
+            "numbers": [
+                "One instrument is visible in the center"
+            ]
+        },
+        "frequency_count": {
+            "locations": 1,
+            "numbers": 1
+        }
+    },
+    "7fe54358-2d9e-4516-a050-60f9ba5a17cb.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ffccac1c-197e-4c99-b580-c221b95f799a.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "b725d9ef-aec5-4088-9060-fa6788e3a508.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e78e1f11-9926-40f8-88c0-6967d697bd2a.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d4b1830c-6c66-460b-94e6-c29afca389ad.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "cbceb75b-76d2-4a52-b3f8-d96f3e983738.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8a47dcff-afd3-4b26-8b80-bde8bd8d6b01.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "68464bea-ffb6-4899-bf4a-43e2afff97ce.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "aa727c3f-db98-44b0-94a8-eed2e6e56419.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                " The anatomical landmark, which is the vocal cords, appears as normal, pinkish tissue."
+            ]
+        },
+        "frequency_count": {
+            "colors": 1
+        }
+    },
+    "fd357ea7-8c16-436a-993f-1e684edb056a.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "7ef433e7-5005-404e-be61-ea83e534f4e7.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "4a57871d-84c4-4469-a08c-64db45117881.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e9863854-6b91-4c51-b58c-1dc7e826c87c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "bd2810d8-3da3-4259-96da-23edd682a76e.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "95f2a29e-91d9-480d-a0c7-a35a72963fc4.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "ed43c566-42d1-4fff-bca7-dbcc6d457774.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "0b24da49-ad71-4965-95f9-12a6d0d60906.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "65ca056c-3fdc-4f80-949c-43560c21054a.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "medical_findings": [
+                " polyps "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "78f877f3-083c-40ef-a82c-65764f6ab285.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "988a0ff0-d9a8-4a30-9dce-6215a4312a1b.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "colors": [
+                " The anatomical landmarks are brown in color."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "4398e4cd-7035-442d-9f0e-f9493c209499.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "7c5031b5-5f93-479b-a2bd-61736f1ee140.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "138679f9-237b-44c6-bf26-b9921c6b4131.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "0d7ff5ea-15d9-4a8e-a2e8-77ee6b228738.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "3d8f51f7-f49d-4e4b-9bfb-cc9be3fec5e2.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "93da5f66-6dec-4bcb-9569-3c334f341631.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                "but no polyps"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "c222d437-fc3c-477b-bc2a-0ac6397a58da.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "180b4450-8bd3-45de-a95c-6b939869bd1a.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "bca1edec-045b-4768-82e6-718beed4d4a5.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "58a01891-5c6e-40c9-8320-44810ed364c6.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "medical_findings": [
+                "There is no clear anatomical landmark, evidence of polyps,"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "9885601a-feb2-47dc-90d5-14d4949fe744.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "51a7f7a5-ed3e-4a8a-ba17-992a63811952.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "487b7da7-5820-408a-989b-f88d6b20886e.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "e8263143-69e2-4ad9-b075-95b3367441ca.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "427697e4-6569-4ccc-9598-32b23959f30b.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "15db2130-7fee-4353-aa88-c07b5f695d12.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "32647719-894b-478c-b288-3c330b89ab3b.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "1f233ecd-9e93-4bbd-a2ad-0cffc9bba42f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "medical_findings": [
+                " polyps,",
+                "polyps."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 2
+        }
+    },
+    "bccfdfd6-c69a-4fc8-9bad-135747bd93b7.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "6ab6061b-7793-4cb0-a9e4-545a6d62aa9a.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "7fdd9e68-162b-4140-ba25-7316c75989fd.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "8816e26f-6e4e-4b96-ba2b-7f22a3943378.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "43b362e7-940d-4855-9544-de6021e5ae00.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "dd771aff-3de5-4950-9f68-72d4b3cf99dd.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "de17b7a4-cff6-4e31-bd44-a100b16241dd.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "0eed63cb-174b-4aca-b473-75a01c41025f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "f8f4a55d-c67e-4804-8db6-4002ca9e4a96.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "c51913e1-f08f-4bda-b3d2-f1a7e4f440ee.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8da061c0-686e-4e07-8c56-2df2580befed.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "c7246fd5-2e6a-47ae-821a-217f43b674a6.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "8adee273-c557-4cc1-b29a-2301a81c433d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "medical_findings": [
+                "There is no visible abnormality, polyps,"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "d7ad9e7c-2ac0-43b9-a6e5-4e15c772454e.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "505cb307-69fb-40b8-848e-fa75e3006858.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "589436f6-384e-4b12-8416-fea23c56fdc9.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "medical_findings": [
+                ", bleeding, or inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "79dc9bef-366a-45af-b9d4-481ef7e95bf5.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "0589644e-cdb7-413a-8ea0-c26ff26707c9.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "8816b980-c716-484a-9d2e-0d2e80836b26.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "e81021b3-e521-46ae-a076-8989b840d258.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "60a48de4-e9d2-4a65-b762-b71539cc2097.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d22fcfe0-aaba-4dd5-ae3f-fd60f985bb86.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "4a443f4e-e2a9-465e-8b47-716a24783a25.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "numbers": [
+                "There appears to be one polyp."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "numbers": 1
+        }
+    },
+    "de619a86-f3dc-45e1-98c9-a372ca0c7873.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "c9ae1d7e-7a08-4176-931f-4110e2f9908a.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "0e4ed20c-2c4e-45be-a183-c6f61453b45c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "2a6a0dc1-e02f-493c-b8e7-784df8dc5c16.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "e4c487d7-16d1-4fde-9951-9456e54fe5d3.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "ca3f724c-c1ae-4381-84cf-acdb07cfa424.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "1caca1a6-78cb-44c0-9a5b-644566067523.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "876609a5-187c-452d-9e29-7e445ce1d97f.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "2ca1039b-7ba8-4df2-8421-45730a0127d0.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "a6d2c652-e684-4a88-9e4b-bbe69deb45af.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "33fa6aa7-fff7-4bb2-8bd5-2f19c3270595.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "20cb9bd3-af0e-44ea-98a2-186b148d2595.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "5b6c500c-5beb-4b69-9e9a-caee9a9c87f4.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "b6463288-dd56-419d-a2fe-978154562f48.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "767b82aa-d0c6-4fea-9a3b-590d5bc1c534.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                "polyps"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "8cb7a07e-41fd-43d1-b6b2-a02593d49151.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "5cfa50c9-0b0f-45e2-9ec3-ac3eae2f8dd4.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ],
+            "medical_findings": [
+                "without visible polyps"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "cc098d18-f4fb-4628-866e-acce25d66e45.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "0a8570b0-405c-4880-8800-a1e2a310a03c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "251223d9-762c-43a9-aa64-542e44fa6036.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "664c57ef-32b3-4573-aa45-d83d96b3c967.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "102eb625-1f1c-4a63-9e57-4baeb5f0fbaa.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "The anatomical landmarks, which are the mucosal folds",
+                "An image of normal cecum. The anatomical landmarks, which are the mucosal folds, are visible and pink."
+            ],
+            "colors": [
+                "An image of normal cecum. The anatomical landmarks, which are the mucosal folds, are visible and pink."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 2,
+            "colors": 1
+        }
+    },
+    "72f45e57-6268-4796-a71f-333d0c00866d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "d3730333-1b15-47bf-9ccd-44dea7aca766.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "a209bfe2-8271-46c8-9f78-79d4918734ba.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "a26a58f0-8eeb-40f4-b102-225b9626739c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "30237284-bb41-4c42-95ca-bf8419e44630.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "1522dded-e258-4aa8-99d4-7ab67a34221f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                " No polyps"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "cf27dbea-dced-46c9-b4ca-992e6b1ebdd2.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "36afa3ba-ad19-467a-af3a-549250e5b473.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "bccccc97-4b36-4238-aec6-51fba8522d0d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "7c842733-aae9-41d6-8b81-8f5f891bfa68.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "30c1a4f7-b096-4b06-8766-04a75197d613.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "65e210a5-a594-4545-9c9b-021ad425573d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "dd1a4fa2-cc16-4bf1-9aa3-1352a13d2210.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "1858f55c-b3a5-4554-891e-a63143121bf5.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "829d742e-390b-4a43-9d2f-2f66731e8c2d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "946ff5c8-74bf-4c4b-93f5-b32145d5d10f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "d82eb7f9-9988-42a2-8140-11f335d893cd.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "8a156d87-4689-4786-ae5a-d9d6e1f0aefd.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                "signs of inflammation, bleeding"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "aebc8b4c-36c4-411e-9438-865c28f2f7b8.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                "inflammation",
+                "infection"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 2
+        }
+    },
+    "992267fa-0d86-4ab7-bdb3-332a6d4a1770.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "45842efe-b78d-4e94-b6b2-b5899d4a29bc.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "728f8f18-663b-4c7f-a800-00cddcad7110.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "medical_findings": [
+                "anatomical landmarks, or signs of infection"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "95cc0138-88b9-4c2f-8465-0fc8592d4e9d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line"
+            ],
+            "colors": [
+                " The anatomical landmark (esophageal lining) is also visible in red."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "940dd44e-98d4-4ca5-bc5d-d142a32e0d5e.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "f9602e28-2aa8-4d74-8725-5b486f796eb7.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "ea311a55-94c4-4fa5-92cf-759e9595881c.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "b62924ca-ebf5-4b1c-91ad-b243ac724058.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "medical_findings": [
+                ", signs of inflammation"
+            ],
+            "colors": [
+                "The overall color of the tract wall is a healthy reddish-brown."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1,
+            "colors": 1
+        }
+    },
+    "33f881a3-c4fc-4401-b061-4d87b16d8b2c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "fe847a94-7385-40b7-9d3f-64d21dcf66b1.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "d4cbe3d0-ec63-4708-a637-d8860670b073.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "f96c26c7-a79f-45e2-b6f8-e3b69780e974.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "0d4c9fce-f423-40bc-84ca-53f0fb570696.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "51c81910-a021-41f6-8295-16f04f8622ad.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "2f5bf90d-a5ca-4f65-ad1d-40d79cf798be.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "3def2ad5-084e-4912-9afa-04eef4580e63.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "584f1fa0-9bb9-49d3-b412-c42819d0a200_00000085.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "a3e1d924-cb24-4ae5-8f28-db6d4a2eaf77.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "23291a6e-8604-493e-9939-15ea64ab7557.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "deac43d4-3028-46b8-9566-6c346e55a879.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "b3f693f5-9001-41c1-95b9-6f8bbffec3d6.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "28615915-120a-4cb2-abdb-699e8b1ed85b.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ],
+            "medical_findings": [
+                "signs of inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "c02a7b75-2ba2-4da7-b993-8d164771ec56.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                "infection"
+            ],
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1,
+            "anatomical_class": 1
+        }
+    },
+    "373da343-d708-4169-9db0-9c30d7463bc3.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "64fe0dbe-3068-40a6-b148-b315b5078bbf.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "f88926a6-5732-40a5-a97e-fa4b167a631c.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus.",
+                "An image of normal pylorus. There are no obvious abnormalities,"
+            ],
+            "medical_findings": [
+                "signs of inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 2,
+            "medical_findings": 1
+        }
+    },
+    "91d7a4a9-d15f-44c7-b047-2dd10c6e93d1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "6b110f6c-42fa-4352-820f-62e6778d7737.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "7c32871e-e108-4f02-8a93-bbb06bf5bd6e.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "c7203d20-f57a-406d-ae02-8a1331a703c1.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                "inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "c801eb98-6af7-4a43-b23c-0351cffaca3b_00000096.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "5f667713-2300-42bc-b0a6-6e6406f210a7.jpg": {
+        "incorrect_texts": {
+            "medical_findings": [
+                " signs of inflammation"
+            ]
+        },
+        "frequency_count": {
+            "medical_findings": 1
+        }
+    },
+    "4f3bde35-92c7-4909-a314-e2cf7ab0b311.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "82aafaf4-081a-4350-a852-38c7eb0b66fa.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                "with no evidence of inflammation or"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "eec1de7c-08d1-478f-953f-5025cfb160c4.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "medical_findings": [
+                "signs of inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "615ba22f-37fd-42b0-bbc5-6c56f692d983.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "8c456c43-c9fb-410a-9378-4d1595477982.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "9ea8e0e4-ae6d-446c-a808-c184116398ce.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "377ec6e0-1444-4bdc-b6f9-2bd5b29e65dc.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "12816474-e08b-48e6-b88a-774b61ca307a.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                " inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "d1257c93-4ccf-40f6-b966-4cab0020790b.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "6ae73ff0-674b-4e83-a024-e4459cc4be8a.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "3e2aaaa4-8239-4d76-9e63-678c415398cf.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "medical_findings": [
+                "inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "b5dedee1-07af-4df3-8601-e7e8a90e79cf.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                "inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "584f1fa0-9bb9-49d3-b412-c42819d0a200_00000034.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "fa4df5a3-b6a5-4bad-8b13-337b754f9a1f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "c1c115e0-8065-4e3e-8f6a-dcef23e7fd44.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "43742e7f-46d4-4b01-8166-a6d77cb86aa3.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "698f130b-41ff-414d-908c-8d8c0f82d4a8_00001725.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "6cb58c17-f270-4c55-80ca-5a6ef6f9a363.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line"
+            ],
+            "medical_findings": [
+                " and potential infection"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "297aaddb-e91f-49ce-9770-98ebef746cbb.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "6e35335c-f5d8-44c4-b153-995431701d7f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "7f3395c1-f54d-43db-9902-3570bd24ef5d.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "c77289ba-71ac-4703-a88f-f888d0bdffff.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "311fc1c3-376a-4d74-a7e3-58b9a8cef588.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "colors": [
+                "white"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1
+        }
+    },
+    "7da5ff61-0a33-4422-9538-f22b7059e7a0.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "medical_findings": [
+                "signs of inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "b58906b0-66cf-4412-a722-e1b6e6977074.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "b08c91e5-4907-4ddb-ad61-e0a4e93fda15.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "74e2b182-122b-418c-b2c2-91798cc090ed.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "medical_findings": [
+                "and signs of inflammation."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "46705b13-80d7-41d1-8505-2d5e2f99065a.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "d993ce9f-471d-4314-b4c2-c601b87b27e9.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "medical_findings": [
+                "signs of inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "19933bbf-b1ca-4f68-974e-cb27d2a69193.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "759cb6da-cdac-4d4c-b5d8-deddd26c2f94.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "02952327-2303-44da-99ed-9fc0525ff6eb.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "d8b0b1f4-b7d2-4eb4-94cb-1536e4500e2e.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ],
+            "medical_findings": [
+                "but no bleeding"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "61e52f7b-9490-4cc4-8a1a-9bccb38d5db2.jpg": {
+        "incorrect_texts": {
+            "colors": [
+                "The abnormality is yellow, located in the upper left corner"
+            ],
+            "locations": [
+                "The abnormality is yellow, located in the upper left corner"
+            ]
+        },
+        "frequency_count": {
+            "colors": 1,
+            "locations": 1
+        }
+    },
+    "613a0505-1216-4ae2-ac5a-cbc4d264c2db.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "9defc727-3e35-4a0a-baf6-ed4a3870f8be.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "698f130b-41ff-414d-908c-8d8c0f82d4a8_00001979.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "aefe1ce0-f25e-4322-bc8a-93dad8bf8249.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ],
+            "colors": [
+                " the anatomical landmark is brown."
+            ],
+            "medical_findings": [
+                " signs of inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1,
+            "medical_findings": 1
+        }
+    },
+    "2041f1d7-e3e0-488f-95f3-40a2a7d163b6.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "e4fbe114-7e5e-4a0f-a856-ba2b39fb7b87.jpg": {
+        "incorrect_texts": {},
+        "frequency_count": {}
+    },
+    "64edd365-68ed-4c63-9316-4d077810106f.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal z-line"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "19fa3a85-90a9-4941-9637-1ef6a1a719af.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "ae68bef5-8ca4-42fd-a275-d34ee4ea8c14_00001236.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "9693175e-c2de-4fab-a436-3d8b291f8f3e.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum. "
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "891c2a9f-4af8-46be-b48d-e278192db5d5.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ],
+            "colors": [
+                "anatomical landmarks are not distinctly colored"
+            ],
+            "medical_findings": [
+                "inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "colors": 1,
+            "medical_findings": 1
+        }
+    },
+    "02daad2b-534a-4822-96ab-0d42d23a3fb9.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "medical_findings": [
+                " signs of inflammation,"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "6d739fe2-8fb9-45d7-bda0-56be5fd77cb7.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ],
+            "numbers": [
+                " One polyp is present."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "numbers": 1
+        }
+    },
+    "67261339-4a41-4bc1-82fc-f9ecf26bc0ad.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "fa08a6ce-516e-442f-9a88-b57ce593de31.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus. "
+            ],
+            "medical_findings": [
+                " indicating no signs of inflammation or bleeding,"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    },
+    "ad271465-fd83-4322-93fb-44bd5541e6b6.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal pylorus."
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1
+        }
+    },
+    "8f0504e9-1db7-4249-8a40-fa8c545a7728.jpg": {
+        "incorrect_texts": {
+            "anatomical_class": [
+                "An image of normal cecum"
+            ],
+            "medical_findings": [
+                "No inflammation"
+            ]
+        },
+        "frequency_count": {
+            "anatomical_class": 1,
+            "medical_findings": 1
+        }
+    }
+}
